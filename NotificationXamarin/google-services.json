@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "221201677337",
+    "firebase_url": "https://robertonotificacion.firebaseio.com",
+    "project_id": "robertonotificacion",
+    "storage_bucket": "robertonotificacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221201677337:android:8dd4029ecc42842d",
+        "android_client_info": {
+          "package_name": "com.appsnica.xmarinnotificacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221201677337-8viqm7joqpt4od5vqrlcgb02o0qblvcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa77xUb2d-5q5O1RWP369LwyaK37Ctuyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221201677337-8viqm7joqpt4od5vqrlcgb02o0qblvcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
